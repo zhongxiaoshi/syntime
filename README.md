@@ -1,1 +1,1 @@
-## SynTime is moved to [https://xszhong.github.io/syntime](https://xszhong.github.io/syntime).
+## SynTime is moved to [https://github.com/xszhong/syntime](https://github.com/xszhong/syntime).
